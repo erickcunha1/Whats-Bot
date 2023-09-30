@@ -55,7 +55,3 @@ O script abrirá automaticamente o WhatsApp Web, enviará mensagens para os cont
 ## Contribuição
 
 Sinta-se à vontade para contribuir para este projeto abrindo problemas ou criando solicitações de pull. Suas contribuições são muito apreciadas.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
